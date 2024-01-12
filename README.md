@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivani Vishwakarma</h1>
-<h3 align="center">A Passionate and Curious Full-stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
+<h3 align="center">A Passionate and Curious Full-stack Developer,</h3>
+<img align="right" alt="Coding" width="395" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanivishwakarma13&label=Profile%20views&color=0e75b6&style=flat" alt="shivanivishwakarma13" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently **a Final Year Undergraduate** looking for amazing work opportunities!
 
-- 💬 Ask me about **Java , Flutter and Dart**
+- 💬 Ask me about **Java , Flutter and Dart,DSA**
 
 - 📫 How to reach me **shivanivish113@gmail.com**
 
