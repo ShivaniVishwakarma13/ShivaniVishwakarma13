@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently **a Final Year Undergraduate** looking for amazing work opportunities!
 
-- 💬 Ask me about **Java , Flutter and Dart**
+- 💬 Ask me about **Java, Flutter and Dart**
 
 - 📫 How to reach me **shivanivish113@gmail.com**
 
